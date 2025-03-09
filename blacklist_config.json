@@ -1,0 +1,16 @@
+{
+    "ipConfigs": [
+        {
+            "ip": "192.168.0.1",
+            "startDelay": 5,
+            "displayFrequency": 60,
+            "block": false
+        },
+        {
+            "ip": "10.0.0.2",
+            "startDelay": 10,
+            "displayFrequency": 120,
+            "block": true
+        }
+    ]
+}
