@@ -5,12 +5,6 @@
             "startDelay": 5,
             "displayFrequency": 60,
             "block": false
-        },
-        {
-            "ip": "83.4.77.21",
-            "startDelay": 2,
-            "displayFrequency": 10,
-            "block": false
         }
     ]
 }
