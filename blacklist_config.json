@@ -7,10 +7,10 @@
             "block": false
         },
         {
-            "ip": "10.0.0.2",
-            "startDelay": 10,
-            "displayFrequency": 120,
-            "block": true
+            "ip": "83.4.77.21",
+            "startDelay": 2,
+            "displayFrequency": 10,
+            "block": false
         }
     ]
 }
