@@ -1,9 +1,9 @@
 {
     "ipConfigs": [
         {
-            "ip": "192.168.0.1",
+            "ip": "185.149.201.173",
             "startDelay": 5,
-            "displayFrequency": 60,
+            "displayFrequency": 1,
             "block": false
         }
     ]
