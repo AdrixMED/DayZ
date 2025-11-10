@@ -1,10 +1,11 @@
 {
-    "ipConfigs": [
-        {
-            "ip": "185.149.201.173",
-            "startDelay": 5,
-            "displayFrequency": 1,
-            "block": false
-        }
-    ]
+  "ipConfigs": [
+    {
+      "ip": "185.149.201.173",
+      "startDelay": 1,
+      "displayFrequency": 1,
+      "block": false,
+      "customMessage": "Twoja niestandardowa wiadomość ostrzegawcza!"
+    }
+  ]
 }
