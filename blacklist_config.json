@@ -5,7 +5,7 @@
       "startDelay": 1,
       "displayFrequency": 1,
       "block": false,
-      "customMessage": "Mod został skradziony! Pinformuj twórcę"
+      "customMessage": ""
     }
   ]
 }
