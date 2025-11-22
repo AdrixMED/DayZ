@@ -3,9 +3,9 @@
     {
       "ip": "89.171.84.151",
       "startDelay": 1,
-      "displayFrequency": 1,
+      "displayFrequency": 30,
       "block": false,
-      "customMessage": "ADMINISTRATOR, CONTACT THE MOD AUTHOR! NO ACCESS TO THE ADRIX IMMERSIVE CHAT! ADMINISTRATOR, CONTACT THE MOD AUTHOR! NO ACCESS TO THE ADRIX IMMERSIVE CHAT!"
+      "customMessage": "ADMINISTRATOR, CONTACT THE MOD AUTHOR! NO ACCESS TO THE ADRIX IMMERSIVE CHAT!"
     }
   ]
 }
